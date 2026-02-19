@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+.DS_Store
+folio_counter.txt
+user_states.json
+.vercel
+.DS_Store?
+Thumbs.db
